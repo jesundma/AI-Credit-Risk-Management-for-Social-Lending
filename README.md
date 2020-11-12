@@ -18,6 +18,7 @@ Social lending is by nature high risk lending as customers are cut off all other
 Municipalities have quite similar processes for applying and granting social loans. City of Helsinki process (2) is good description of regular process. Their application form for social loan is also a good source for model data. Social Lending is like walking on right rope. Social security worker has to judge whether customer is unable or unwilling to serve social loan. If loan is not granted customer may end up insolvent.
 
 ## Data sources and AI methods
+All data is sensitive customer data and thus restricted only to persons directly involved with customer. Quality of data varies, one of the reasons is how data systems are set-up. Social security services do not have in my opinion tradition of data management from service production point of view. Data is managed and collected to fulfill legal and administrative obligations. Data is sensitive information on income, employment, debts, assets etc. It has to be anonymized and gathering will probably require invidual research application to every municipality asked for data. AI net has to predict willingness to play (model past credit behaviour) and ability to play (model possible shocks to income, costs, and assets).
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 
 ## Challenges
