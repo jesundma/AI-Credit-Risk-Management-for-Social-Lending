@@ -5,12 +5,12 @@ Final project for the Building AI course
 
 ## Summary
 
-Social loans are loans provided to individuals who, due to their small income and scant financial means, are unable to get reasonable terms of credit elsewhere, but who are nevertheless able to repay loans. Lending is by nature of clients high risk and credit risk is difficult to determine.
-To my knowledge credit risk is not appraised with a risk model in any of the 30+ municipalities granting social loans. Most municipalities seem to operate on payment allowance basis in credit risk appraisal. Other variables like previous employment, credit record, education, unemployment etc. are not taken into account in organized fashion or as 
+Social loans are loans provided to individuals who, due to their small income and scant financial means, are unable to get reasonable terms of credit elsewhere, but who are nevertheless able to repay loans. To my knowledge credit risk is not appraised with a risk model in any of the 30+ municipalities granting social loans.
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Most municipalities seem to operate on payment allowance basis in credit risk appraisal. Other variables like previous employment, credit record, education, unemployment etc. are not taken into account in organized fashion or as 
 
 This is how you make a list, if you need one:
 * problem 1
