@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Social loans are loans provided to individuals who are unable to get reasonable terms of credit elsewhere, but who are nevertheless able to repay loans. To my knowledge credit risk is not appraised with a risk model in any of the 30+ municipalities.
+Social loans are loans provided to individuals who are unable to get reasonable terms of credit elsewhere, but who are nevertheless able to repay loans. To my knowledge credit risk is not appraised with a risk model in any of 30+ Finnish municipalities.
 
 ## Background
 
