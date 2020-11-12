@@ -15,7 +15,7 @@ Social lending is by nature high risk lending as customers are cut off all other
 
 ## How is it used?
 
-Municipalities have quite similar processes for applying and granting social loans. City of Helsinki process (2) is good description of regular process. Their application form for social loan is also a good source for model data. 
+Municipalities have quite similar processes for applying and granting social loans. City of Helsinki process (2) is good description of regular process. Their application form for social loan is also a good source for model data. Social Lending is like walking on right rope. Social security worker has to judge whether customer is unable or unwilling to serve social loan. If loan is not granted customer may end up insolvent.
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
